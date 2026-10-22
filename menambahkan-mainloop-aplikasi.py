@@ -59,3 +59,4 @@ btn_prediksi = tk.Button(
 btn_prediksi.grid(row=11, column=0, columnspan=2, pady=15)
 label_hasil = tk.Label(top, text="Hasil Prediksi: -")
 label_hasil.grid(row=12, column=0, columnspan=2, pady=5)
+top.mainloop()
